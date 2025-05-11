@@ -27,7 +27,7 @@ npm run dev
 
 `pages/index.js` 内の `API_ENDPOINT` をご自身のAPIエンドポイントに合わせて修正してください。
 
-デフォルトでは `http://localhost:5000/api/convert` になっています。
+https://github.com/misakiotb/img2img をローカル実行した画像変換APIエンドポイントを利用することを想定しており、デフォルトでは `http://localhost:5000/api/convert` になっています。
 
 ## APIレスポンス例
 
