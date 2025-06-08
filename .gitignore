@@ -10,6 +10,7 @@ out/
 Thumbs.db
 
 # ログファイル
+node_modules/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
@@ -20,3 +21,9 @@ yarn-error.log*
 .env.development.local
 .env.test.local
 .env.production.local
+
+# 画像保存ディレクトリ
+tmp/
+
+# 日報ファイル
+docs/daily_report_*.md
